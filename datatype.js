@@ -7,4 +7,4 @@
 // String
 
 
-console.info(food)
+console.info()
