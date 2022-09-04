@@ -1,0 +1,4 @@
+// Function simple
+
+
+console.info()
